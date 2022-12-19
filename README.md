@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yuvanika
 - 🌱 I’m currently pursuing M.Sc Software Systems
 - 👀 I’m interested in Web Development 
-- 📫 How to reach me 2031056mss@cit.edu.in
+- 📫 How to reach me yuvanikavishwa02@gmail.com
 
 <!---
 Yuvanika24/Yuvanika24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
