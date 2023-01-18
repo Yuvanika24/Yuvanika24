@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yuvanika
-- 🌱 I’m currently pursuing M.Sc Software Systems
+- 🌱 I’m currently pursuing Intergrated M.Sc Software Systems
 - 👀 I’m interested in Web Development 
 - 📫 How to reach me yuvanikavishwa02@gmail.com
 
